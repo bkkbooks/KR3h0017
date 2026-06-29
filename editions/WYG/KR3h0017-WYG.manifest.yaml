@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR3h0017/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3h0017/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 圖畫見聞誌
+  date: '2015-09-12 00:16:19.728480'
+  source:
+    repository: kanripo
+    path: KR3h0017
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3h0017_000-WYG.yaml, hash: 'sha256:821a43d7af1123be62bc8a263260a7ad3fba21a9e76c2e68ddaa0649299906ff'}
+  - {seq: 1, filename: KR3h0017_001-WYG.yaml, hash: 'sha256:8db0b9335e29e1226a417b08b278e1a651a31fcef0e684128f031f14e652850c'}
+  - {seq: 2, filename: KR3h0017_002-WYG.yaml, hash: 'sha256:1e9e73d2f5c13e3e5da2cc3831c56b85d19adf26baa0b3b09cdb892c92ac68a8'}
+  - {seq: 3, filename: KR3h0017_003-WYG.yaml, hash: 'sha256:695e05e8045a6f57d213c0394bf13b2292e6ec1dd4cb8822b2d1df3231050729'}
+  - {seq: 4, filename: KR3h0017_004-WYG.yaml, hash: 'sha256:4e71b188588784362a1810f6d3517d49c345fa30bb555ba2ea90416166b29950'}
+  - {seq: 5, filename: KR3h0017_005-WYG.yaml, hash: 'sha256:a48a9d127841682e4af83388d82a11738b0b05ca3c02f61752bb960a1dad96d2'}
+  - {seq: 6, filename: KR3h0017_006-WYG.yaml, hash: 'sha256:e49a55289104a1e773fa25f9a42a48ee34d9ab668dc966fff407973bf7988ff4'}
+  - {seq: 7, filename: KR3h0017_007-WYG.yaml, hash: 'sha256:0cf1c22f03237a6a88d14e7fcf0212951b3837256a811eb2b9e926d8ddc381aa'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3h0017_000-WYG.markers.yaml, hash: 'sha256:87a5c98d266109e549dcc990d4d5de84cb7ff6610e854ec72a4a07404569c118'}
+  - {seq: 1, role: markers, filename: assets/KR3h0017_001-WYG.markers.yaml, hash: 'sha256:d86c2a6afa0d36e8119939081320a995455119b0ca86d48653999737e949044a'}
+  - {seq: 2, role: markers, filename: assets/KR3h0017_002-WYG.markers.yaml, hash: 'sha256:177510946d9b5a5fc77ab7ca4642ff513026a0cfcadbba5f439966452178ddbb'}
+  - {seq: 3, role: markers, filename: assets/KR3h0017_003-WYG.markers.yaml, hash: 'sha256:edcc89ff7eecb79be3b6bc7acece4e03e84816a548a684942b51e74ec97f199a'}
+  - {seq: 4, role: markers, filename: assets/KR3h0017_004-WYG.markers.yaml, hash: 'sha256:92b41064cac562838c8c8f973917c3fc5ebe4cbe47efedbf3f7f90d6a53412bf'}
+  - {seq: 5, role: markers, filename: assets/KR3h0017_005-WYG.markers.yaml, hash: 'sha256:836bbd0b15affc4a2293ccfe26be2d3ecfb0e6e1fb06dcb7e233214d09384fdf'}
+  - {seq: 6, role: markers, filename: assets/KR3h0017_006-WYG.markers.yaml, hash: 'sha256:268071abab03fe8c0695ceb20cd5c2a51f454bf287a9aa0f9a82594a4cd851c2'}
+  - {seq: 7, role: markers, filename: assets/KR3h0017_007-WYG.markers.yaml, hash: 'sha256:e6c980a94ae395353065f901b029637c9843451eb87f5290bbff9a804bfe12b9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3h0017_WYG_000-3b
+    span:
+    - body
+    - 0
+    - 0
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3h0017_WYG_001-1b
+    span:
+    - body
+    - 0
+    - 6383
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3h0017_WYG_002-5b
+    span:
+    - body
+    - 0
+    - 4437
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3h0017_WYG_003-1b
+    span:
+    - body
+    - 0
+    - 5283
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3h0017_WYG_004-1b
+    span:
+    - body
+    - 0
+    - 5198
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3h0017_WYG_005-1b
+    span:
+    - body
+    - 0
+    - 5018
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: juan 006
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3h0017_WYG_006-1b
+    span:
+    - body
+    - 0
+    - 4815
+  label: juan 007
+  type: section
+  level: 1
+hash: sha256:803119baf1367c1cd2626cda98e9f29475ca638a1d574e49e8034e98046b4cec
