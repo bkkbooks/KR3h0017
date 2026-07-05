@@ -24,7 +24,6 @@ markers:
   - {type: page-break, offset: 3, content: '', id: KR3h0017_WYG_006-3b, image: WYG0812/WYG0812-0563b.png}
   - {type: variant, offset: 6, length: 0, content: '', WYG: 領得外其餘却還卿家付王貽正其餘者乃是王羲之墨蹟晉朝名臣墨蹟王徽之畫唐閻立本畫老子西昇經圖薛稷畫鶴凡七卷猶子渙遂得摸詔札刊於翠琰秋山圖太平興國中祕閣曝畫時陶穀}
   - {type: page-break, offset: 6, content: '', id: KR3h0017_WYG_006-4a, image: WYG0812/WYG0812-0563c.png}
-  - {type: substitution, offset: 6, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: variant, offset: 7, length: 0, content: '', WYG: 翰長因展秋山圖一面令黄居寀品第之居寀一見動容曰此圖實居寀與父筌奉孟主命同畫以荅江南信幣絹縫中有居寀父子姓名視之果驗曽有人於向文簡家見十二幅圖花竹禽鳥泉石地形皆極精妙上題云如京副使臣黄筌等十三人合畫圖之角却有江南印記乃是孟氏贈李主之物也文簡薨其圖不知所在恩賜种放真宗祀汾隂還駐蹕華隂因登亭朢蓮花峰忽憶种放居是山亟令中貴人裴愈召之時放穪疾不應召上笑而止因問愈曰放在家何爲耶愈對曰臣到放所居時㑹放在草㕔中看畫水牛二軸上顧謂侍臣曰此高尚之士怡性之物也遂按行在所見扈從圖軸得四十餘卷盡令愈徃賜之皆名蹤古蹟也放隐終南山豹林谷或居華山徃來不常時方在華山也臥雪圖丁晉公典金陵陛辭之日真宗出八幅袁安臥雪圖一面其所畫人物車馬林石廬舍靡不臻極作從者苦寒之態意思如生旁題云臣黄居寀等定到神品上但不書畫人姓名亦莫識其誰筆也上宣諭晉公曰卿到金陵日可選一絶景處張此圖晉公至金陵乃於城之西北隅構亭曰賞心危聳清曠勢出塵表遂施圖於巨屏到者莫不以此爲佳觀嵗月既乆縑素不無敗裂由是徃徃爲人刲竊後王君玉密學出典是邦素聞此圖甚竒下車之後首欲縱觀乃見竊以殆盡嗟惋乆之乃詩於壁其警句云昔人已化嘹天鶴徃事難㝷臥雪圖覺穪畫大中祥符初有西域僧覺穪來館於興國寺之傳灋院其僧通四十餘本經論年始四十餘嵗丁晉公延見之嘉其敏恵後作聖德頌以上文理甚富上問其所欲但云求金襴袈裟㱕置金剛坐下㝷詔尚方造以給之覺穪自言酤蘭左國人刹帝利姓善畫嘗於譯堂北壁畫釋迦面與此方所畫絶異昔有梵僧𢃄過白㲲上本亦與尋常畫像不同葢西國所穪髣髴其真今之儀相始自晉戴逵刻製梵像欲人生敬時頗有損益也慈氏像景祐中有畫僧曾於市中見舊功德一幅看之乃是慈氏菩薩像左邉一人執手爐裹幞頭衣中央服右邊一婦人捧花盤頂翠鳳寳冠衣珠絡泥金廣袖畫僧黙識其立意非俗而畫灋精高遂以半千售之乃重加􅑽背持獻入内閻都知閻一見且驚曰執香爐者實章聖御像也捧花盤者章憲明肅皇太后真容也此功德乃高文進所畫舊是章憲閣中别置小佛堂供養每日凌晨焚香恭拜章憲㱕天不意流落一至於此言訖於悒乃以束縑償之復增華其褾軸即日進於澄神殿仁廟對之瞻慕慽容移刻方罷命藏之御府以白金二百星賜荅之千角鹿圖皇朝與大遼國馳禮于今僅七十載繼好息民之羙曠古未有慶厯中其主號興宗以五幅縑畫千􅊁鹿圖爲獻旁題年月日御畫上命張圖於太清樓下召近臣縱觀次日又敕中闈宣命婦觀之畢藏於天章閣訓鑒圖皇祐初}
   - {type: page-break, offset: 7, content: '', id: KR3h0017_WYG_006-4b, image: WYG0812/WYG0812-0563d.png}
   - {type: page-break, offset: 7, content: '', id: KR3h0017_WYG_006-5a, image: WYG0812/WYG0812-0564a.png}
@@ -51,7 +50,6 @@ markers:
   - {type: variant, offset: 14, length: 0, content: '', WYG: 行於世其間一篇惟叙畫龍之事八仙真道士張素卿神仙人也曾於青城山丈人觀畫五嶽四凟真形并十二溪女數壁筆蹟遒徤神彩欲活見之者心悚神悸足不能進實畫之極致者也孟蜀後主數遣祕書少監黄筌令依様摹之及下山終不相類後因蜀主誕日忽有人持素卿畫八仙真形以獻蜀主蜀主觀之且歎曰非神仙之能無以寫神仙之質遂厚賜以遣一日命翰林學士歐陽烱次第讚之復遣水部員外郎黄居寶八分題之每觀其畫歎其筆蹟之縱逸覽其讚賞其文詞之高古玩其書愛其㸃畫之雄壯顧謂八仙不譲三絶八仙者李阿容成董仲舒張道陵嚴君平李八百長壽仙葛永瑰鍾馗様昔吳道子畫鍾馗衣藍衫鞹一足眇一目腰笏巾首而􅅫髮以左手捉鬼以右手抉其鬼目筆蹟遒勁實繪事之絶格也有得之以獻蜀主者蜀主甚愛重之常挂臥内一日召黄筌令觀之筌一見穪其絶手蜀主因謂筌曰此鍾馗若用拇指搯其目則愈見有力試}
   - {type: page-break, offset: 14, content: '', id: KR3h0017_WYG_006-13a, image: WYG0812/WYG0812-0568a.png}
   - {type: page-break, offset: 14, content: '', id: KR3h0017_WYG_006-13b, image: WYG0812/WYG0812-0568b.png}
-  - {type: substitution, offset: 14, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: variant, offset: 15, length: 0, content: '', WYG: 我改之筌遂請㱕私室數日看之不足乃别張絹素畫一鍾馗以拇指搯其鬼目翌日并吳本一時獻上蜀主問曰向止令卿改胡爲别畫筌曰吳道子所畫鍾馗一身之力氣色眼貎俱在第二指不在拇指以故不敢輒改也臣今所畫雖不迨古人然一身之力併在拇指是敢别畫耳蜀主嗟賞之仍以錦帛鋈器旌其别識賞雪圖李中主保大五年元日大雪命太弟已下登樓展宴咸命賦詩令中人就私第賜李建勲繼和是時建勲方㑹中書舍人徐鉉勤政學士張義方於溪亭即時和進乃召建勲鉉義方同入夜艾方散侍臣皆有興詠徐鉉爲前後序仍集名手圖畫曲盡一時之妙真容高沖古主之侍臣灋部絲竹周文矩主之樓閣宫殿朱澄主之雪竹寒林董源主之池沼禽魚徐崇嗣主之圖成無非絶筆}
   - {type: page-break, offset: 15, content: '', id: KR3h0017_WYG_006-14a, image: WYG0812/WYG0812-0568c.png}
   - {type: page-break, offset: 15, content: '', id: KR3h0017_WYG_006-14b, image: WYG0812/WYG0812-0568d.png}
@@ -84,17 +82,13 @@ markers:
       ', id: KR3h0017_krp_007-bkkkrnewl5}
   - {type: line-break, offset: 73, content: '', id: KR3h0017_SBCK_007-1a05}
   - {type: indent, offset: 73, content: 　, id: KR3h0017_krp_007-bkkind5}
-  - {type: substitution, offset: 79, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: variant, offset: 91, length: 7, content: 卷二李昇條注云, WYG: 誅藝必以妙悟精能取重於世然後可著於文可寶於笥惡夫眩惑以沽名者則不免鑒士之弃昔者孟}
-  - {type: substitution, offset: 94, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0043}}
   - {type: 'kr:newline', offset: 97, content: '
 
       ', id: KR3h0017_krp_007-bkkkrnewl6}
   - {type: line-break, offset: 97, content: '', id: KR3h0017_SBCK_007-1a06}
   - {type: indent, offset: 97, content: 　, id: KR3h0017_krp_007-bkkind6}
   - {type: variant, offset: 99, length: 34, content: 中多呼昇爲小李將軍小李將軍乃思訓之子陳本脫下小李將軍四字卷三文同條末, WYG: ''}
-  - {type: substitution, offset: 102, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0043}}
-  - {type: substitution, offset: 103, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'kr:newline', offset: 121, content: '
 
       ', id: KR3h0017_krp_007-bkkkrnewl7}
@@ -108,7 +102,6 @@ markers:
       ', id: KR3h0017_krp_007-bkkkrnewl8}
   - {type: line-break, offset: 145, content: '', id: KR3h0017_SBCK_007-1a08}
   - {type: indent, offset: 145, content: 　, id: KR3h0017_krp_007-bkkind8}
-  - {type: substitution, offset: 165, original: 覈, replacement: 核, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0893}}
   - {type: variant, offset: 167, length: 1, content: 上, WYG: 驗此抑非眩惑取功沽名亂藝者乎至於野人騰壁羙女}
   - {type: 'kr:newline', offset: 169, content: '
 
@@ -128,15 +121,12 @@ markers:
       ', id: KR3h0017_krp_007-bkkkrnewl11}
   - {type: line-break, offset: 217, content: '', id: KR3h0017_SBCK_007-1a11}
   - {type: indent, offset: 217, content: 　, id: KR3h0017_krp_007-bkkind11}
-  - {type: substitution, offset: 221, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: variant, offset: 229, length: 150, content: 第十一葉描補七字第十三葉四十字均近下闌殆卽蕘翁所謂舊時塡寫者第十三葉第六行末夫字且誤作失蕘翁愛護此書愼之又愼今亦悉仍其舊猶蕘翁志也毛子晉稱若虛深鄙衆工而獨歸於軒冕巖穴爲是翁之卓識四庫總目又謂是書於一百五六十年中名人藝士流派本末頗稱賅備實視劉道醇畫評爲詳云云蓋其上繼彥遠下開鄧椿亦藝苑之功臣也崑山胡文楷, WYG: ''}
   - {type: 'kr:newline', offset: 241, content: '
 
       ', id: KR3h0017_krp_007-bkkkrnewl12}
   - {type: line-break, offset: 241, content: '', id: KR3h0017_SBCK_007-1a12}
   - {type: indent, offset: 241, content: 　, id: KR3h0017_krp_007-bkkind12}
-  - {type: substitution, offset: 249, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3192}}
-  - {type: substitution, offset: 256, original: 塡, replacement: 填, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3348}}
   - {type: 'kr:newline', offset: 265, content: '
 
       ', id: KR3h0017_krp_007-bkkkrnewl13}
@@ -149,7 +139,6 @@ markers:
 
       ', id: KR3h0017_krp_007-bkkkrnewl15}
   - {type: line-break, offset: 289, content: '', id: KR3h0017_SBCK_007-1b02}
-  - {type: substitution, offset: 312, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'kr:newline', offset: 313, content: '
 
       ', id: KR3h0017_krp_007-bkkkrnewl16}
@@ -158,7 +147,6 @@ markers:
 
       ', id: KR3h0017_krp_007-bkkkrnewl17}
   - {type: line-break, offset: 337, content: '', id: KR3h0017_SBCK_007-1b04}
-  - {type: substitution, offset: 353, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'kr:newline', offset: 361, content: '
 
       ', id: KR3h0017_krp_007-bkkkrnewl18}
@@ -171,4 +159,4 @@ markers:
 
       ', id: KR3h0017_krp_007-bkkkrnewl20}
   back: []
-hash: sha256:924254ccec16ce5da8913517d9cb3f81c7c274c00cd9f90c35255ad23cb90050
+hash: sha256:536ea773ee5abb5736f36cc0ba4343d2b84256f35c001ce82f355e1c02d8342c
