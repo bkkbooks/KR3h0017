@@ -163,6 +163,7 @@ markers:
   - {type: page-break, offset: 222, content: '', id: KR3h0017_WYG_005-2b, image: WYG0812/WYG0812-0553d.png}
   - {type: substitution, offset: 224, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 225, content: (, id: KR3h0017_krp_005-bkkpn9}
+  - {type: 'voice:problem', offset: 225, length: 4, id: KR3h0017_bkk_005-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 225, got ''('' at offset 229'}
   - {type: 'kr:non-cjk', offset: 227, content: '[', id: KR3h0017_krp_005-bkkkrnonc1}
   - {type: variant, offset: 227, length: 4, content: 騣凶鬯匕, SBCK: 􅎸}
   - {type: 'kr:non-cjk', offset: 228, content: '-', id: KR3h0017_krp_005-bkkkrnonc2}
@@ -2248,4 +2249,4 @@ markers:
   - {type: variant, offset: 5022, length: 0, content: '', WYG: 欽定四庫全書圖畫見聞誌卷六宋郭若虚撰}
   - {type: page-break, offset: 5022, content: '', id: KR3h0017_WYG_006-1a, image: WYG0812/WYG0812-0562a.png}
   back: []
-hash: sha256:79d46b8f93f6b89c619795bcaf44f19ff01c634490ce807aee3b78927ba84290
+hash: sha256:59ed5a729dbe2d7f1332f6635f74eb990eba934ce50432b0049e2ddc6dc18e5c

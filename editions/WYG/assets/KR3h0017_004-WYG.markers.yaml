@@ -10,6 +10,7 @@ markers:
       ', id: KR3h0017_WYG_004-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3h0017_WYG_004-front02}
   - {type: indent, offset: 0, content: 　　　　, id: KR3h0017_WYG_004-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3h0017_WYG_004-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 1, content: 　, id: KR3h0017_WYG_004-bkkind2}
   - {type: indent, offset: 2, content: 　　　　　, id: KR3h0017_WYG_004-bkkind3}
   - {type: indent, offset: 3, content: 　, id: KR3h0017_WYG_004-bkkind4}
@@ -1920,4 +1921,4 @@ markers:
 
       ', id: KR3h0017_WYG_004-bkkkrnewl371}
   back: []
-hash: sha256:92b41064cac562838c8c8f973917c3fc5ebe4cbe47efedbf3f7f90d6a53412bf
+hash: sha256:68fa2cbc131ec43e6e115572acaafe78764e6ff877af3963482131d9adb22622
