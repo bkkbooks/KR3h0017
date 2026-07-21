@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3h0017/WYG/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: line-break, offset: 0, content: '', id: KR3h0017_WYG_000-front01}
   - {type: 'kr:newline', offset: 1, content: '
 
@@ -134,14 +134,13 @@ markers:
   - {type: line-break, offset: 470, content: '', id: KR3h0017_WYG_001-1a02}
   - {type: line-break, offset: 472, content: '', id: KR3h0017_WYG_001-1a03}
   - {type: line-break, offset: 473, content: '', id: KR3h0017_WYG_001-1a04}
-  body:
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: 'kr:newline', offset: 474, content: '
 
       ', id: KR3h0017_WYG_000-bkkkrnewl1}
-  - {type: line-break, offset: 0, content: '', id: KR3h0017_WYG_001-1a05}
-  - {type: indent, offset: 0, content: 　, id: KR3h0017_WYG_000-bkkind1}
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: line-break, offset: 474, content: '', id: KR3h0017_WYG_001-1a05}
+  - {type: indent, offset: 474, content: 　, id: KR3h0017_WYG_000-bkkind1}
+  - {type: 'kr:newline', offset: 474, content: '
 
       ', id: KR3h0017_WYG_000-bkkkrnewl2}
   back: []
-hash: sha256:168d1695f0714e6d43fe95ef344516ff15ee8cdbaef36bd2e09ddfd01edd276e
+hash: sha256:1c3fab9c705408aa76d02c99531037e20d206a7bcd98ac51a113aa882d6dc66b
